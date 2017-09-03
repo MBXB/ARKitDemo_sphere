@@ -4,7 +4,11 @@
 //
 //  Created by 毕向北 on 2017/9/3.
 //  Copyright © 2017年 MBXB-bifujian. All rights reserved.
-//
+//简书地址--http://www.jianshu.com/p/1a93e0e1da78
+//C博客地址--http://blog.csdn.net/oboe_b/article/details/77816655
+//微博--http://weibo.com/6342211709/profile?rightmod=1&wvr=6&mod=personinfo
+
+
 
 import UIKit
 import SceneKit
